@@ -1,4 +1,4 @@
-# IS218HW1
+# HW1
 Hello Professor
 
 Second Commit
